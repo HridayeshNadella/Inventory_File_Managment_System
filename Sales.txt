@@ -1,0 +1,6 @@
+hari,1234,hari@gmail.com,3,1,300,Tue Jul  4 16:26:38 2023
+hridayesh,5678,hariprasad@gmail.com,1,5,25,Tue Jul  4 16:27:22 2023
+harsh,4321,harsh@gmail.com,1,2,10,Tue Jul  4 16:28:46 2023
+harry potter,333,triwizardchampian@gmail.com,3,1,300,Tue Jul  4 16:49:05 2023
+dubeldore,4444,headmaster@gmail.com,1,3,50,Tue Jul  4 16:50:12 2023
+Dobby,1111,freeelf@gmail.com,3,1,300,Tue Jul  4 16:54:00 2023
